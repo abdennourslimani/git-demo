@@ -24,4 +24,8 @@ aprés avoir supprimer un fichier exemple
 + je prends 8 lettre de mon commit .
 + git reset --hard(shift insert code 7 lettres) ......
 
+## git fetch 
++ se mettre à jour avec ce qu'on a sur le distant  . 
 
+## annuler le suivi d'un fichier  
+git rm --cached * nom_fichier*
